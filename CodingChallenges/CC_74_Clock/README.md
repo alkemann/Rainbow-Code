@@ -2,6 +2,7 @@
 * Edited video: https://youtu.be/E4RyStef-gY
 * Original Live Stream Part 1: https://youtu.be/tXjI6evU-so
 * Original Live Stream Part 2: https://youtu.be/BcbS0MR3vxQ
+* See This Example Running: https://codingtrain.github.io/Rainbow-Code/CodingChallenges/CC_74_Clock/
 
 ## Clocks made by the Community!
 * Wall Clock https://www.openprocessing.org/sketch/450332
@@ -25,4 +26,7 @@
 * JosephS: [Colorful/Formatted Clock](https://alpha.editor.p5js.org/full/By-iJRIjb), [Source](https://alpha.editor.p5js.org/jspira/sketches/By-iJRIjb)
 * Alkemann: [Count the squares](http://alkemann.com/webroot/retro/clock/), [Source](https://gist.github.com/alkemann/1b97aa8240f9dd57ad8d3fb89cd96eae)
 * Page Full of Clocks: https://farazinc.github.io/page-full-of-clocks/, [Source](https://github.com/farazinc/page-full-of-clocks)
-
+* Haider Ali Punjabi: [Fibonacci Clock](https://hackesta.org/p5/fibonacci-clock/), [Source](https://github.com/haideralipunjabi/p5-projects/tree/master/fibonacci-clock)  
+* Haider Ali Punjabi: [Archimedes Clock](https://hackesta.org/p5/archimedes-clock/), [Source](https://github.com/haideralipunjabi/p5-projects/tree/master/archimedes-clock)
+* Stripes clock, by Boguz: https://boguz.github.io/stripeclock/
+* Clock with text at the edge of lines. https://www.openprocessing.org/sketch/461595
